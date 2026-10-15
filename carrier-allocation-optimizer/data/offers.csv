@@ -1,0 +1,37 @@
+lane,carrier,price_per_kg,on_time
+Sao Paulo,Norte Sul,0.3221,0.7381
+Rio de Janeiro,Norte Sul,0.8911,0.7402
+Belo Horizonte,Norte Sul,1.0146,0.7104
+Curitiba,Norte Sul,0.7498,0.687
+Porto Alegre,Norte Sul,1.7722,0.71
+Goiania,Norte Sul,1.4585,0.6877
+Salvador,Norte Sul,3.0225,0.6211
+Recife,Norte Sul,4.0621,0.6516
+Sao Paulo,RodoFacil,0.3434,0.8745
+Rio de Janeiro,RodoFacil,0.9964,0.8754
+Belo Horizonte,RodoFacil,1.1058,0.8626
+Curitiba,RodoFacil,0.8273,0.84
+Porto Alegre,RodoFacil,1.8739,0.8507
+Goiania,RodoFacil,1.663,0.839
+Sao Paulo,Atlantico,0.3585,0.8857
+Rio de Janeiro,Atlantico,1.0171,0.8696
+Belo Horizonte,Atlantico,1.1594,0.8922
+Curitiba,Atlantico,0.8587,0.858
+Porto Alegre,Atlantico,1.9251,0.8519
+Goiania,Atlantico,1.7023,0.8327
+Salvador,Atlantico,3.2388,0.8118
+Recife,Atlantico,4.6342,0.8102
+Sao Paulo,Veloz,0.4268,0.9665
+Rio de Janeiro,Veloz,1.2025,0.9688
+Belo Horizonte,Veloz,1.3607,0.9676
+Curitiba,Veloz,1.0189,0.9661
+Porto Alegre,Veloz,2.3417,0.9354
+Goiania,Veloz,2.0028,0.9093
+Salvador,Veloz,4.0356,0.8879
+Recife,Veloz,5.1774,0.8774
+Rio de Janeiro,Mercurio,1.5846,0.9909
+Belo Horizonte,Mercurio,1.8375,0.9823
+Porto Alegre,Mercurio,3.0503,0.9812
+Goiania,Mercurio,2.6815,0.9502
+Salvador,Mercurio,5.4181,0.9045
+Recife,Mercurio,7.1363,0.8975

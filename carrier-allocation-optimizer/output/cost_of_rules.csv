@@ -1,0 +1,4 @@
+scenario,cost,ontime,extra_cost_vs_base
+Plan with the base rules,919816.31,0.8655,0.0
++ no carrier above 70% of a lane,928414.51,0.8655,8598.2
+"+ minimum lot of 10,000 kg per carrier/lane",922525.77,0.8655,2709.46

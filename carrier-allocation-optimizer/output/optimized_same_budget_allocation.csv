@@ -1,0 +1,11 @@
+lane,carrier,kg,price_per_kg,on_time
+Rio de Janeiro,RodoFacil,84227.136,0.9964,0.8754
+Porto Alegre,RodoFacil,60000.0,1.8739,0.8507
+Goiania,RodoFacil,45000.0,1.663,0.839
+Sao Paulo,Atlantico,100000.0,0.3585,0.8857
+Belo Horizonte,Atlantico,90000.0,1.1594,0.8922
+Salvador,Atlantico,50000.0,3.2388,0.8118
+Recife,Atlantico,40000.0,4.6342,0.8102
+Sao Paulo,Veloz,120000.0,0.4268,0.9665
+Curitiba,Veloz,80000.0,1.0189,0.9661
+Rio de Janeiro,Mercurio,55772.864,1.5846,0.9909

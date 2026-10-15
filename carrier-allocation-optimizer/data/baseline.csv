@@ -1,0 +1,37 @@
+lane,carrier,kg
+Sao Paulo,Norte Sul,24992.0
+Sao Paulo,RodoFacil,49480.0
+Sao Paulo,Atlantico,83279.0
+Sao Paulo,Veloz,62249.0
+Rio de Janeiro,Norte Sul,20324.0
+Rio de Janeiro,RodoFacil,30979.0
+Rio de Janeiro,Atlantico,57161.0
+Rio de Janeiro,Veloz,26728.0
+Rio de Janeiro,Mercurio,4808.0
+Belo Horizonte,Norte Sul,11107.0
+Belo Horizonte,RodoFacil,19927.0
+Belo Horizonte,Atlantico,33276.0
+Belo Horizonte,Veloz,22089.0
+Belo Horizonte,Mercurio,3601.0
+Curitiba,Norte Sul,9888.0
+Curitiba,RodoFacil,24610.0
+Curitiba,Atlantico,31104.0
+Curitiba,Veloz,14398.0
+Porto Alegre,Norte Sul,8617.0
+Porto Alegre,RodoFacil,14511.0
+Porto Alegre,Atlantico,17642.0
+Porto Alegre,Veloz,16434.0
+Porto Alegre,Mercurio,2796.0
+Goiania,Norte Sul,6520.0
+Goiania,RodoFacil,13798.0
+Goiania,Atlantico,12277.0
+Goiania,Veloz,10194.0
+Goiania,Mercurio,2211.0
+Salvador,Norte Sul,9912.0
+Salvador,Atlantico,20016.0
+Salvador,Veloz,17939.0
+Salvador,Mercurio,2133.0
+Recife,Norte Sul,8012.0
+Recife,Atlantico,18751.0
+Recife,Veloz,11246.0
+Recife,Mercurio,1991.0

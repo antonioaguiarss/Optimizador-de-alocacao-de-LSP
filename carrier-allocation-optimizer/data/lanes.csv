@@ -1,0 +1,9 @@
+lane,region,km,demand_kg
+Sao Paulo,Southeast,100,220000
+Rio de Janeiro,Southeast,500,140000
+Belo Horizonte,Southeast,590,90000
+Curitiba,South,410,80000
+Porto Alegre,South,1100,60000
+Goiania,Midwest,930,45000
+Salvador,Northeast,1960,50000
+Recife,Northeast,2700,40000
